@@ -15,6 +15,8 @@ public class Btt21 {
      */
     public static void main(String[] args) {
         System.out.println("hello work ");
+        System.out.println("hello app ");
+        
     }
     
 }
